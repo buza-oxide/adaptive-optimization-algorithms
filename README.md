@@ -1,15 +1,15 @@
 # Adaptive Optimization Algorithms
 
 ## Research Overview
-This project was conducted under the BIT-SIPAR (Summer Internship Program for Advanced Research) at Birla Institute of Technology, Mesra, under the supervision of Dr. Lakhsman Mahto, Assistant Professor, Department of Quantitative Economics & Data Science.
+This project was conducted under the BIT-SIPAR (Summer Internship Program for Advanced Research) at Birla Institute of Technology, Mesra under the supervision of Dr. Lakhsman Mahto, Assistant Professor, Department of Quantitative Economics & Data Science.
 
 The research studies gradient-based optimization methods and adaptive step-size strategies, comparing their convergence behaviour and computational performance using Python.
 
 ## Research Objectives
-- Study Gradient Descent, Steepest Descent, and Newton's Method.
-- Examine adaptive step-size strategies, including Exact Line Search, Bisection Line Search, and Backtracking Line Search.
+- Study Gradient Descent, Steepest Descent and Newton's Method.
+- Examine adaptive step-size strategies, including Exact Line Search, Bisection Line Search and Backtracking Line Search.
 - Investigate Step Size Hedging as an adaptive learning-rate strategy.
-- Compare implemented algorithms using iteration count, execution time, and final Mean Squared Error (MSE).
+- Compare implemented algorithms using iteration count, execution time and final Mean Squared Error (MSE).
 
 ## Methods and Tools
 - **Methods:** Gradient-based optimization and adaptive step-size selection
